@@ -8,4 +8,9 @@
 
 
 # solution
+function repeatStr (n, s) {
+  return s.repeat(n);
+}
+
+//repeat() Returns a new string with a specified number of copies of an existing string
 
